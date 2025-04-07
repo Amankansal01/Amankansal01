@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">passionate about frontend developer and problem solving</h3>
 
 
-
+- 🌱 I’m currently learning TypeScript
 - 💬 Ask me about **react,Node JS ,Tailwind,Bootstarp,DSA**
 
 - 📫 How to reach me **Amankansal063@gmail.com**
