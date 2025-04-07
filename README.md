@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">passionate about frontend developer and problem solving</h3>
 
-- 🌱 I’m currently learning **Node JS**
 
-- 💬 Ask me about **react ,Tailwind,Bootstarp,DSA**
+
+- 💬 Ask me about **react,Node JS ,Tailwind,Bootstarp,DSA**
 
 - 📫 How to reach me **Amankansal063@gmail.com**
 
