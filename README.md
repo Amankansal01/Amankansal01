@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Aman</h1>
-<h3 align="center">passionate about frontend developer and problem solving</h3>
+<h3 align="center">passionate about Backend developer and problem solving</h3>
 
 
 - 🌱 I’m currently learning TypeScript
